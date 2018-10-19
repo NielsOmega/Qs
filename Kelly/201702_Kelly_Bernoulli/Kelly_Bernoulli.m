@@ -1,5 +1,7 @@
 %% Kelly Bernoulli plots the optimal betting fraction given Bernoulli trials
+
 % First code in 2012
+% Last edited 201702
 
 %% Global commands
 

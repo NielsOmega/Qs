@@ -1,5 +1,7 @@
 %% GUI_Kelly_Bernoulli
 
+% Last edit: 201702
+
 function GUI_Kelly_Bernoulli
 
 %% Create GUI

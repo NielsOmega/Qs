@@ -1,5 +1,7 @@
-%% Kelly under normal
+%% Kelly under Gaussianity
+
 % Merton approximation vs. numerical
+% Last edited 201702
 
 %% Global commands
 
