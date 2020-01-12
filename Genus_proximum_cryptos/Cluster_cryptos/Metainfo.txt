@@ -1,0 +1,14 @@
+Name of Quantlet: Cluster_cryptos
+
+Published in: Genus_proximum_cryptos
+
+Description: 'Clusterization of cryptocurrencies.'
+
+Keywords: cryptocurrency, genus proximum, classiffication, clustering
+ 
+Author: Daniel Traian Pele
+
+See also: FA_cryptos, DFA_cryptos, SFA_cryptos
+
+Submitted: 2019-04-08
+
