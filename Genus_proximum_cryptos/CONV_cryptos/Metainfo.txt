@@ -2,13 +2,13 @@ Name of Quantlet: CONV_cryptos
 
 Published in: Genus_proximum_cryptos
 
-Description : 'This quantlet proves the convergence of the cryptocurrencies over time, by computing Likelihood Ratio from binary logistic regression.'
+Description: 'This quantlet shows the convergence of cryptocurrencies over time, by computing Likelihood Ratio from binary logistic regression.'
 
 Keywords: cryptocurrency, genus proximum, classiffication, clustering, classification, multivariate analysis, convergence
  
 Author: Daniel Traian Pele and Niels Wesselhöfft
 
-See also: SFA_cryptos, FA_cryptos, DFA_cryptos
+See also: SFA_cryptos, FA_cryptos, DFA_cryptos, Mkt_cryptos, VCS_cryptos
 
 Submitted: 2019-04-05
 
